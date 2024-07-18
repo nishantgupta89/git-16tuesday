@@ -1,3 +1,5 @@
 Get the user data ...
 get the data
-create an vator for user
+create an avator for user
+login and log out from userservice
+git add
