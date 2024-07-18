@@ -2,4 +2,4 @@ Get the user data ...
 get the data
 create an avator for user
 login and log out from userservice
-git add
+change 1
